@@ -5,6 +5,8 @@ Le code dans le dossier LH est trés vieux et de mauvaise qualité. Donc n'allez
 
 
 
-Pour tester le pso il suffit de lancer main.py 
-ligne 80 et 84 il faut mettre le nom de la fonction à tester
-en haut il y'a des fonction de test
+Pour tester le pso il suffit de lancer main.py.
+
+Ligne 80 et 84 il faut mettre le nom de la fonction à tester.
+
+En haut du fichier il y'a des fonction de test.
